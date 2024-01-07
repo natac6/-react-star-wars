@@ -9,4 +9,32 @@
   }
   
   /* Add additional styles if necessary */
+  .starshipcard {
+    /* Your default styles for the card container */
+    cursor: pointer; /* Add this to indicate the card is clickable */
+  }
+  
+  .clicked {
+    /* Styles applied when the card is clicked */
+    border: 2px solid #3498db; /* Add a border or any other styling you prefer */
+  }
+  
+  .header {
+    /* Styles for the h2 tag */
+  }
+  
+  .hidden {
+    /* Styles to hide the element */
+    display: none;
+  }
+  
+  .model {
+    /* Styles for the model paragraph */
+  }
+  
+  .manufacturer {
+    /* Styles for the manufacturer paragraph */
+  }
+  
+  /* Add more styles as needed */
   
